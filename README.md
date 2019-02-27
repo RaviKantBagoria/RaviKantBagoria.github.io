@@ -1,2 +1,2 @@
-# SampleWebAR
-This is created to test the Web AR Skills
+# AR Library
+This is a website for an AR Library! You can view it [here](ravi.html)!
